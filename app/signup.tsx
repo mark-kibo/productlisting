@@ -14,7 +14,7 @@ export default function page() {
     <SafeAreaProvider>
       <SafeAreaView className='bg-primary'>
 
-        <View className='p-4 flex-1 mt-8'>
+        <View className='p-4 flex-1  mt-4'>
 
         </View>
 
